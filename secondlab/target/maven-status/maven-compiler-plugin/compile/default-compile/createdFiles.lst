@@ -1,0 +1,10 @@
+org\example\CLRuntime$Platform.class
+org\example\CLRuntime$Program.class
+org\example\CLRuntime$CommandQueue.class
+org\example\CLRuntime.class
+org\example\MultArrays.class
+org\example\CLRuntime$VideoMemBuffer.class
+org\example\CLRuntime$Kernel.class
+org\example\CLRuntime$Context.class
+org\example\CLRuntime$Device.class
+org\example\CLRuntime$1.class
